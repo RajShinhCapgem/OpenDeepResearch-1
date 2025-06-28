@@ -2,11 +2,10 @@ Do not over explain what you have done, perform the tasks and only explain if yo
 
 The PRD is stored here: OpenDeepResearch\scripts\scripts\PRD.md
 
-Use Context7 tool server to understand anything you need to know about Semantic Kernel.
-
 When you finish a TaskMaster task in its entirety, generate a commit message
 
-Use Tavily Web search tool to browse internet for any coding elements you are unsure of
+You MUST USE Context7 tool server to understand anything you need to know about Semantic Kernel.
+Use Tavily Web search tool to browse internet for any coding elements you are unsure of.
 
 
 Always use powershell syntax when running commands:
